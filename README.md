@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://agent14bricks.github.io/shrink-n-grow/](https://agent14bricks.github.io/shrink-n-grow/) or on [https://agent14bricks.itch.io/shrink-n-grow](https://agent14bricks.itch.io/shrink-n-grow) and [https://makecode.com/_4hYef7Caw2AD]{https://makecode.com/_4hYef7Caw2AD}
+> Open this page at [https://agent14bricks.github.io/shrink-n-grow/](https://agent14bricks.github.io/shrink-n-grow/) or on [https://agent14bricks.itch.io/shrink-n-grow](https://agent14bricks.itch.io/shrink-n-grow) and https://makecode.com/_4hYef7Caw2AD
 
 ## Use as Extension
 
